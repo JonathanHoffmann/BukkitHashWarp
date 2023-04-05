@@ -7,7 +7,7 @@ Warps players to random locations, the locations can always be revisited with th
 Hashes are by design irreversible. This should be functiuonally the same.
 If this is to be used on a massive player, a redisign should be done with usage of a database. All these files might really slow down the server otherwise.
 
-###Commands:
+### Commands:
 warp <seed>
 permission: hashwarp.use DEFAULT
 Seed is anything.
