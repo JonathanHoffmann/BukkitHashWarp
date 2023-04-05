@@ -1,0 +1,26 @@
+name: BukkitHashWarp
+main: me.Jonnyfant.BukkitHashWarp.BukkitHashWarp
+author: Jonnyfant
+version: 1.0
+commands:
+  warp:
+    usage: /<command> <seed>
+    permission: hashwarp.use
+  warpreverse:
+    usage: /<command> <X> <Z> [world]
+    permission: hashwarp.reverse
+  warpchangeradius:
+    usage: /<command> <world> <newradius>
+    permission: hashwarp.admin
+  warplist:
+    usage: /<command> [world]
+    permission: hashwarp.list
+permissions:
+  hashwarp.use:
+    default: true
+  hashwarp.reverse:
+    default: true
+  hashwarp.list:
+    default: op
+  hashwarp.admin:
+    default: op
