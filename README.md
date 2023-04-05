@@ -21,5 +21,5 @@ permission: hashwarp.reverse DEFAULT\
 World not required if sender is a player, looking in the current world in that case.
 
 warplist [world]\
-permission: hashwarp.list\
+permission: hashwarp.list OP\
 World not required if sender is a player, looking in the current world in that case.
