@@ -10,16 +10,16 @@ If this is to be used on a massive player, a redisign should be done with usage 
 ### Commands:
 warp <seed>\
 permission: hashwarp.use DEFAULT\
-Seed is anything.\
+Seed can be anything.
 
 warpchangeradius <world> <newradius>\
 permission: hashwarp.admin OP\
-Might add deletion of all warppoints for the world in the future\
+Might add deletion of all warppoints for the world in the future
 
 warpreverse <X> <Z> [world]\
 permission: hashwarp.reverse DEFAULT\
-World not required if sender is a player, looking in the current world in that case.\
+World not required if sender is a player, looking in the current world in that case.
 
 warplist [world]\
 permission: hashwarp.list\
-World not required if sender is a player, looking in the current world in that case.\
+World not required if sender is a player, looking in the current world in that case.
