@@ -1,6 +1,4 @@
 # BukkitHashWarp
-https://www.curseforge.com/minecraft/bukkit-plugins/hashwarp
-
 Made for request:
 https://bukkit.org/threads/hash-warp.500574/
 
