@@ -22,3 +22,8 @@ World not required if sender is a player, looking in the current world in that c
 warplist [world]\
 permission: hashwarp.list OP\
 World not required if sender is a player, looking in the current world in that case.
+
+
+Donations:
+My mods are free. If you want to buy me a cup of coffee as a thank you I would really appreciate it!
+https://ko-fi.com/jonathanhoffmann
